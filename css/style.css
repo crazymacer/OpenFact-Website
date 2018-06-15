@@ -578,6 +578,11 @@ header {
     text-align: center;
     color: #959094;
     padding: 1.05rem 1.25rem;
+    line-height: 28px;
+}
+.card.pricing .list-group-item .title
+{
+    color: #333;
 }
 
 .card.pricing .list-group-item del {
@@ -699,6 +704,19 @@ header {
     border-color: #333 !important;
 }
 
+.tick-yes
+{
+    color: green;
+    font-size:18px;
+}
+
+.tick-no
+{
+    color: red;
+    font-size:18px;
+    font-weight: bold;
+}
+
 
 /*Call Modal*/
 #call-form-close
@@ -713,3 +731,4 @@ header {
     color: #4e4a47;
     font-weight: bold;
 }
+
