@@ -137,7 +137,9 @@ $(function() {
         // there are many ways to get this data using jQuery (you can use the class or id also)
         var formData = {
             'plan-name'              : $('input[name=plan-name]').val(),
+            'user-name'             : $('input[name=user-name]').val(),
             'user-phone'             : $('input[name=user-phone]').val(),
+
         };
 
         // process the form
@@ -168,11 +170,19 @@ $(function() {
                 } 
                 else
                 {
-                    // ALL GOOD! just show the success message!
-                    //alert('success'); // for now we'll just alert the user
-                    $('#call-form-close').click();
-                    swal("Gracias!", "En breve nos pondremos en contacto contigo.", "success");
-                    $('#call-form-error').hide();
+                    if (data.errors.user_name) {
+                        $('#call-form-error').text(""+data.errors.user_name); // add the actual error message under our input
+                    }
+
+                    else
+                    {
+                        // ALL GOOD! just show the success message!
+                        //alert('success'); // for now we'll just alert the user
+                        $('#call-form-close').click();
+                        swal("Gracias!", "En breve nos pondremos en contacto contigo.", "success");
+                        $('#call-form-error').hide();
+
+                    }
                 }
         });
 
