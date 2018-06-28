@@ -183,6 +183,8 @@ $(function() {
                 $('#call-form-close').click();
                 swal("Gracias!", "En breve nos pondremos en contacto contigo.", "success");
                 $('#call-form-error').hide();
+                $('input[name=user-name]').val("");
+                $('input[name=user-phone').val("");
 
             }
         });
