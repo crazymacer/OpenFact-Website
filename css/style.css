@@ -732,3 +732,17 @@ header {
     font-weight: bold;
 }
 
+
+
+/**/
+
+.home-logo-phone
+{
+    color: white;
+}
+
+.home-logo-phone a
+{
+    color: white;
+    text-decoration: none;
+}
