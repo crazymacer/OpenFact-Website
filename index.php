@@ -46,7 +46,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <nav class="navbar navbar-dark navbar-expand-lg">
-                        <a class="navbar-brand" href="index.html"><img src="images/openfact_logo_white.png" class="img-fluid" alt="logo"></a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+                        <a class="navbar-brand" href="./"><img src="images/openfact_logo_white3.png" height="50" class="img-fluid" alt="logo"></a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
                         <div class="collapse navbar-collapse" id="navbar">
                             <ul class="navbar-nav ml-auto">
                                 <li class="nav-item"> <a class="nav-link active" href="#home">INICIO <span class="sr-only">(current)</span></a> </li>
@@ -324,6 +324,29 @@
             </div><!--./End Plans-->
         </div>
     </div><!--./End Pricing-->
+
+
+     <!--Authorize -->
+    <div class="section light-bg" id="features">
+
+        <div class="container">
+
+            <div class="section-title">
+                <small></small>
+                <h3>Proveedor Autorizado por la SUNAT</h3>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12 text-center">
+                <p>Autorizado mediante Resolución N° 244-005-0000177/SUNAT</p>
+                    <img src="images/sunat.png" alt="client logos" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div><!--./Authorize -->
+
+   
+
     
     <!--Partners-->
     <div class="client-logos my-5">
@@ -334,6 +357,8 @@
             <img src="images/client-logos.png" alt="client logos" class="img-fluid">
         </div>
     </div><!--./Partners-->
+
+    
 
     
     <!--
@@ -507,21 +532,21 @@
                 <div class="col-lg-6 text-center text-lg-left">
                     <p class="mb-2"> <span class="ti-location-pin mr-2"></span> OpenFact</p>
                     <div class=" d-block d-sm-inline-block">
-                        <p class="mb-2">
+                        <p class="mb-2" style="font-weight:bold;">
                             <span class="ti-email mr-2"></span> Correo electrónico: <a class="mr-4" href="mailto:support@mobileapp.com">ventas@openfact.pe</a>
                         </p>
                     </div>
                     <div class="d-block d-sm-inline-block">
-                        <p class="mb-0">
+                        <p class="mb-0" style="font-weight:bold;">
                             <span class="ti-headphone-alt mr-2"></span> Teléfonos: <a href="tel:+51967245162">(+51) 967245162</a> | <a href="tel:+51999469063">(+51) 999469063</a> | <a href="tel:+51066283005">(+51) 066283005</a>
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="social-icons">
-                        <a href="#"><span class="ti-facebook"></span></a>
-                        <a href="#"><span class="ti-twitter-alt"></span></a>
-                        <a href="#"><span class="ti-instagram"></span></a>
+                        <a href="http://facebook.com/openfact.pe" target="_blank"><span class="ti-facebook"></span></a>
+                        <!--<a href="#"><span class="ti-twitter-alt"></span></a>
+                        <a href="#"><span class="ti-instagram"></span></a>-->
                     </div>
                 </div>
             </div>
