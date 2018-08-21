@@ -34,6 +34,8 @@
     <link rel="stylesheet" href="css/themify-icons.css">
     <!-- Owl carousel -->
     <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <!-- Lightbox2 -->
+    <link href="vendor/lightbox2/css/lightbox.css" rel="stylesheet">
     <!-- Main css -->
     <link href="css/style.css" rel="stylesheet">
 </head>
@@ -599,6 +601,9 @@
         </div>
     </div><!--./Modal-->
 
+    <!-- Modal for events -->
+    <a id="event" href="images/events/evento01.jpg"  style="display:none;" data-lightbox="image-1" data-title="Conferencia de Facturación Electrónica">Image #1</a>
+
     <!-- jQuery and Bootstrap -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
@@ -606,6 +611,8 @@
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <!-- Plugins JS -->
     <script src="js/owl.carousel.min.js"></script>
+    <!-- Lightbox2 -->
+    <script src="vendor/lightbox2/js/lightbox.js"></script>
     <!-- Custom JS -->
     <script src="js/script.js"></script>
 </body>

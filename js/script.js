@@ -193,6 +193,16 @@ $(function() {
         event.preventDefault();
     });
 
-}); /* End Fn */
 
-/* Call US */
+    lightbox.option({
+        'resizeDuration': 200,
+        'wrapAround': true
+        
+      })
+  
+     
+    // Link to open event
+    $("#event").click();
+     
+
+}); /* End Fn */
