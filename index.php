@@ -251,6 +251,7 @@
                         <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
                         <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
                         <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-no">X</span></div>
+                        <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-no">X</span></div>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="CLASSIC">Te Llamamos</a>
@@ -274,6 +275,7 @@
                             <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-no">X</span></div>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="GOLD">Te Llamamos</a>
@@ -297,6 +299,7 @@
                             <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-yes">✔</span></div>
                             <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-no">X</span></div>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="PLATINIUM">Te Llamamos</a>
@@ -320,6 +323,7 @@
                             <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-yes">✔</span></div>
                             <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-yes">✔</span></div>
                             <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-no">X</span></div>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="SIGNATURE">Te Llamamos</a>
@@ -358,6 +362,7 @@
                         <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
                         <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
                         <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-no">X</span></div>
+                        <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-yes">✔</span></div>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="CLASSIC PSE">Te Llamamos</a>
@@ -381,6 +386,7 @@
                             <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-yes">✔</span></div>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="GOLD PSE">Te Llamamos</a>
@@ -404,6 +410,7 @@
                             <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-yes">✔</span></div>
                             <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-yes">✔</span></div>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="PLATINIUM PSE">Te Llamamos</a>
@@ -427,6 +434,7 @@
                             <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-yes">✔</span></div>
                             <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-yes">✔</span></div>
                             <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-yes">✔</span></div>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="SIGNATURE PSE">Te Llamamos</a>
