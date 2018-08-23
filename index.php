@@ -70,8 +70,11 @@
         <div class="container mt-5">
             <h1 class="logo-text">OpenFact</h1>
             <p class="tagline">Sistema de Facturación Electrónica. </p>
+            <div class="btn-group">
+                <a href="http://openfact-innpath.ddns.me/" target="_blank" class="btn btn-outline-light">Openfact West</a>
+                <a href="http://Openfact.dnsfor.me " target="_blank" class="btn btn-outline-light">Openfact North</a>
+            </div>
             <p>
-                <a href="http://openfact-innpath.ddns.me/" target="_blank" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">ACCEDER AL SISTEMA</a> 
                 <a href="http://openfact-test.ddns.me/" target="_blank" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">VER DEMOSTRACIÓN</a>
             </p>
         </div>
