@@ -1,10 +1,10 @@
 <?php
     //Force use HTTPS
-    if($_SERVER["HTTPS"] != "on")
+/*    if($_SERVER["HTTPS"] != "on")
     {
         header("Location: https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"]);
         exit();
-}
+}*/
 ?>
 <!doctype html>
 <html lang="es">
@@ -81,6 +81,28 @@
         <div class="img-holder mt-3"><img src="images/macbook-pro.png" alt="phone" class="img-fluid"><h3 class="home-logo-phone">Contáctanos: <a href="tel:+51967245162">(+51) 967245162</a> | <a href="tel:+51999469063">(+51) 999469063</a></h3></div>
         
     </header><!--./Header-->
+
+    <!-- Expo files -->
+    <div class="section">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 offset-lg-12">
+                    
+                    <h2 class="text-center">MATERIALES DE LA CONFERENCIA</h2>
+                    <p class="mb-4 text-center">Presentaciones utilizadas en la conferencia realizada el día 23/08/2018</p>
+                    <p class="text-center">
+                        <a href="files/conferencia.pptx" target="_blank" class="btn btn-primary text-center">OpenFact</a>
+                        <a href="files/cpe-see.pptx" target="_blank" class="btn btn-primary text-center">Sistema de Emisión Electrónica SEE</a>
+                    </p>
+                    
+                    
+                </div>
+            </div>
+            
+        </div>
+
+    </div><!-- Expo files -->
   
     <!--Features-->
     <div class="section light-bg" id="features">
@@ -472,25 +494,8 @@
 
     
 
+  
     
-    <!--
-    <div class="section">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 offset-lg-6">
-                    <div class="box-icon"><span class="ti-mobile gradient-fill ti-3x"></span></div>
-                    <h2>Discover our App</h2>
-                    <p class="mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati vel exercitationem eveniet vero maxime ratione </p>
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </div>
-            <div class="perspective-phone">
-                <img src="images/perspective.png" alt="perspective phone" class="img-fluid">
-            </div>
-        </div>
-
-    </div> -->
 
     <!--
 
