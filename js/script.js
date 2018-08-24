@@ -194,15 +194,15 @@ $(function() {
     });
 
 
-    lightbox.option({
+    /*lightbox.option({
         'resizeDuration': 200,
         'wrapAround': true
         
-      })
+      })*/
   
      
     // Link to open event
-    $("#event").click();
+    //$("#event").click();
      
 
 }); /* End Fn */
