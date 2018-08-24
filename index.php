@@ -75,7 +75,7 @@
                 <a href="http://Openfact.dnsfor.me " target="_blank" class="btn btn-outline-light">Openfact Centro</a>
             </div>
             <p>
-                <a href="http://openfact-test.ddns.me/" target="_blank" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">VER DEMOSTRACIÓN</a>
+                <a href="http://openfact-ui-openfact-development.apps.console.sistcoop.org:83" target="_blank" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">VER DEMOSTRACIÓN</a>
             </p>
         </div>
         <div class="img-holder mt-3"><img src="images/macbook-pro.png" alt="phone" class="img-fluid"><h3 class="home-logo-phone">Contáctanos: <a href="tel:+51967245162">(+51) 967245162</a> | <a href="tel:+51999469063">(+51) 999469063</a></h3></div>
