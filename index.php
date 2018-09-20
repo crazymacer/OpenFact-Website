@@ -56,7 +56,7 @@
                                 <li class="nav-item"> <a class="nav-link" href="#gallery">CAPTURAS</a> </li>
                                 <li class="nav-item"> <a class="nav-link" href="#pricing">PLANES</a> </li>
                                 <li class="nav-item"> <a class="nav-link" href="#contact">CONTACTO</a> </li>
-                                <li class="nav-item"><a href="http://openfact-innpath.ddns.me/" target="_blank" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">ACCEDER</a></li>
+                                <li class="nav-item"><a href="http://openfact-search-pe-openfact-inpath.apps.console.sistcoop.org/" target="_blank" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">CONSULTAR COMPROBANTE</a></li>
                             </ul>
                         </div>
                     </nav>
