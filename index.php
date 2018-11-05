@@ -292,7 +292,7 @@
                             <div class="list-group-item"><span class="title">Usuarios</span><br>3</div>
                             <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
                             <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
@@ -403,7 +403,7 @@
                             <div class="list-group-item"><span class="title">Usuarios</span><br>3</div>
                             <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
                             <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
                             <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
