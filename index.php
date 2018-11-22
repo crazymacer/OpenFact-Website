@@ -4,7 +4,7 @@
     {
         header("Location: https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"]);
         exit();
-}
+    }
 ?>
 <!doctype html>
 <html lang="es">
@@ -249,224 +249,60 @@
     <div class="section" id="pricing2">
         <div class="container">
             <div class="section-title">
-                <small>SUBE DE CATEGORÍA</small>
-                <h3>PLANES PSE (INCLUYE CERTIFICADO DIGITAL)</h3>
+                <small>OPENFACT</small>
+                <h3>ONLINE – OFFLINE (PSE AUTORIZADO POR LA SUNAT)</h3>
             </div>
             
             <!--Plans-->
             <div class="card-deck">
 
-                <!--Classic Plan-->
-                <div class="card pricing popular price-classic">
-                    <div class="card-head ">
-                        <small class="text-primary">CLASSIC PSE</small>
-                        <span class="price">Gratis<br><br></span>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <div class="list-group-item"><span class="title">Comprobantes Anuales</span>   <br>120</div>
-                        <div class="list-group-item"><span class="title">Soporte</span><br>Vía email<br><br></div>
-                        <div class="list-group-item"><span class="title">Usuarios</span><br>1</div>
-                        <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
-                        <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-yes">✔</span></div>
-                    </ul>
-                    <div class="card-body">
-                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="CLASSIC PSE">Te Llamamos</a>
-                    </div>
-                </div><!--./Classic Plan-->
-
-                <!--Gold Plan-->
+                <!--Plan-->
                 <div class="card pricing popular price-gold">
                     <div class="card-head">
-                        <small class="text-primary">GOLD PSE</small>
-                        <span class="price">S/ 58.90<sub>/m Incluye I.G.V.</sub></span>
+                        <small class="text-primary">PLAN OPENFACT</small>
+                        <span class="price"  ><span style="text-decoration:line-through;color:red">S/ 89.90</span><sub >Antes</sub></span>
+                        <span class="price"><span style="font-weight:bold;">S/ 49.90*</span><sub>/mes Ahora</sub></span>
+                        <span class="price"><span style="font-weight:bold;font-size:30px;">S/ 562.00*</span><sub>/anual</sub></span>
                     </div>
-                    <ul class="list-group list-group-flush">
-                            <div class="list-group-item"><span class="title">Comprobantes Anuales</span>   <br>Ilimitado</div>
-                            <div class="list-group-item"><span class="title">Soporte</span><br>Vía email y teléfono<br><br></div>
-                            <div class="list-group-item"><span class="title">Usuarios</span><br>3</div>
-                            <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-yes">✔</span></div>
-                    </ul>
-                    <div class="card-body">
-                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="GOLD PSE">Te Llamamos</a>
-                    </div>
-                </div><!--./Gold Plan-->
 
-                <!--Platinium Plan-->
-                <div class="card pricing popular price-platinium">
-                    <div class="card-head">
-                        <small class="text-primary">PLATINIUM PSE</small>
-                        <span class="price">S/ 94.30<sub>/m Incluye I.G.V.</sub></span>
-                    </div>
+                    <p style="" class="text-center">Con la versión <b>ONLINE</b> emite tus comprobantes desde la web</p>
+                    <p class="text-center">Con la versión <b>OFFLINE</b>** instalamos nuestro software en tu PC.</p>
+
                     <ul class="list-group list-group-flush">
-                            <div class="list-group-item"><span class="title">Comprobantes Anuales</span>   <br>Ilimitado</div>
-                            <div class="list-group-item"><span class="title">Soporte</span><br>Vía email y telefono personalizada</div>
-                            <div class="list-group-item"><span class="title">Usuarios</span><br>10</div>
-                            <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-yes">✔ Plus</span></div>
-                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-yes">✔</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Activación de cuenta inmediata.</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Certificado digital incluido.</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Emisión de Facturas, Boletas de venta, Notas de Crédito y Débito. </span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Emisión de Comprobantes de Retención y Percepción.</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Anulaciones o bajas de Comprobantes</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Emisión de Guías de Remisión (Remitente) ilimitados. </span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Conectado con la SUNAT</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Disponibilidad de nuestro sistema 24/7/365</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Máximo nivel de seguridad</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Personalización de tus comprobantes con propio LOGOTIPO.</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Envió de comprobantes al correo versión (XML y PDF)</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Generación, envió y recepción de tus comprobantes </span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Soporte y mantenimiento</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Hasta 3 usuarios por empresa (más usuarios – consultar con nosotros)</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Servidor en la nube (respaldo y consulta de comprobantes)</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Consulta de documentos en línea</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Reportes en Excel</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Capacitación </span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Actualizaciones constantes de acuerdo a los cambios en las normas de la SUNAT</span></div>
                     </ul>
+
+                    <p class="text-center"><small>(*) Precios incluyen IGV<br>(**) Versión Offline tiene un costo adicional</small></p>
+                    <p class="text-center"><small> </small></p>
+
                     <div class="card-body">
-                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="PLATINIUM PSE">Te Llamamos</a>
+                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="PLAN OPENFACT">Te Llamamos</a>
                     </div>
-                </div><!--./Platinium Plan-->
-                
-                <!--Signature Plan-->
-                <div class="card pricing popular price-signature">
-                    <div class="card-head">
-                        <small class="text-primary">SIGNATURE PSE</small>
-                        <span class="price" style="font-size: 22px;font-weight: bold;"><br><br>Contáctenos<sub><br><br></sub></span>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                            <div class="list-group-item"><span class="title">Comprobantes Anuales</span>   <br>Ilimitado</div>
-                            <div class="list-group-item"><span class="title">Soporte</span><br>Vía email y telefono personalizada </div>
-                            <div class="list-group-item"><span class="title">Usuarios</span><br>Ilimitado</div>
-                            <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-yes">✔ Plus</span></div>
-                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-yes">✔</span></div>
-                    </ul>
-                    <div class="card-body">
-                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="SIGNATURE PSE">Te Llamamos</a>
-                    </div>
-                </div><!--Signature Plan-->
+                </div><!--./ Plan-->
 
             </div><!--./End Plans-->
         </div>
     </div><!--./End Pricing-->
 
 
-    <!--Pricing-->
-    <div class="section" id="pricing">
-        <div class="container">
-            <div class="section-title">
-                <small>SUBE DE CATEGORÍA</small>
-                <h3>PLANES STANDARD (NO INCLUYE CERTIFICADO DIGITAL)</h3>
-            </div>
-            
-            <!--Plans-->
-            <div class="card-deck">
-
-                <!--Classic Plan-->
-                <div class="card pricing popular price-classic">
-                    <div class="card-head ">
-                        <small class="text-primary">CLASSIC</small>
-                        <span class="price">Gratis<br><br></span>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <div class="list-group-item"><span class="title">Comprobantes Anuales</span>   <br>120</div>
-                        <div class="list-group-item"><span class="title">Soporte</span><br>Vía email<br><br></div>
-                        <div class="list-group-item"><span class="title">Usuarios</span><br>1</div>
-                        <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
-                        <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-no">X</span></div>
-                        <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-no">X</span></div>
-                    </ul>
-                    <div class="card-body">
-                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="CLASSIC">Te Llamamos</a>
-                    </div>
-                </div><!--./Classic Plan-->
-
-                <!--Gold Plan-->
-                <div class="card pricing popular price-gold">
-                    <div class="card-head">
-                        <small class="text-primary">GOLD</small>
-                        <span class="price">S/ 41.20<sub>/m Incluye I.G.V.</sub></span>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                            <div class="list-group-item"><span class="title">Comprobantes Anuales</span>   <br>Ilimitado</div>
-                            <div class="list-group-item"><span class="title">Soporte</span><br>Vía email y teléfono<br><br></div>
-                            <div class="list-group-item"><span class="title">Usuarios</span><br>3</div>
-                            <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-no">X</span></div>
-                    </ul>
-                    <div class="card-body">
-                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="GOLD">Te Llamamos</a>
-                    </div>
-                </div><!--./Gold Plan-->
-
-                <!--Platinium Plan-->
-                <div class="card pricing popular price-platinium">
-                    <div class="card-head">
-                        <small class="text-primary">PLATINIUM</small>
-                        <span class="price">S/ 82.50<sub>/m Incluye I.G.V.</sub></span>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                            <div class="list-group-item"><span class="title">Comprobantes Anuales</span>   <br>Ilimitado</div>
-                            <div class="list-group-item"><span class="title">Soporte</span><br>Vía email y telefono personalizada</div>
-                            <div class="list-group-item"><span class="title">Usuarios</span><br>10</div>
-                            <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-yes">✔ Plus</span></div>
-                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-no">X</span></div>
-                            <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-no">X</span></div>
-                    </ul>
-                    <div class="card-body">
-                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="PLATINIUM">Te Llamamos</a>
-                    </div>
-                </div><!--./Platinium Plan-->
-                
-                <!--Signature Plan-->
-                <div class="card pricing popular price-signature">
-                    <div class="card-head">
-                        <small class="text-primary">SIGNATURE</small>
-                        <span class="price" style="font-size: 22px;font-weight: bold;"><br><br>Contáctenos<sub><br><br></sub></span>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                            <div class="list-group-item"><span class="title">Comprobantes Anuales</span>   <br>Ilimitado</div>
-                            <div class="list-group-item"><span class="title">Soporte</span><br>Vía email y telefono personalizada </div>
-                            <div class="list-group-item"><span class="title">Usuarios</span><br>Ilimitado</div>
-                            <div class="list-group-item"><span class="title">Logotipo en comprobantes</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Reportes</span><br><span class="tick-yes">✔ Plus</span></div>
-                            <div class="list-group-item"><span class="title">Guías de Remisión</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Retenciones y Percepciones</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Comprobantes Personalizables</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Servidor Dedicado</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Acceso gratuito a www.todastusfacturas.com</span><br><span class="tick-yes">✔</span></div>
-                            <div class="list-group-item"><span class="title">Certificado Digital</span><br><span class="tick-no">X</span></div>
-                    </ul>
-                    <div class="card-body">
-                        <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="SIGNATURE">Te Llamamos</a>
-                    </div>
-                </div><!--Signature Plan-->
-
-            </div><!--./End Plans-->
-        </div>
-    </div><!--./End Pricing-->
 
     
 
