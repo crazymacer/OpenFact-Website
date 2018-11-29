@@ -270,11 +270,9 @@
 
                     <ul class="list-group list-group-flush">
                             <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Activación de cuenta inmediata.</span></div>
-                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Certificado digital incluido.</span></div>
-                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Emisión de Facturas, Boletas de venta, Notas de Crédito y Débito. </span></div>
-                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Emisión de Comprobantes de Retención y Percepción.</span></div>
-                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Anulaciones o bajas de Comprobantes</span></div>
-                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Emisión de Guías de Remisión (Remitente) ilimitados. </span></div>
+                            
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Facturas, Boletas de venta, Notas de Crédito y Débito, Anulaciones o bajas ilimitados. </span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Comprobantes de Retención y Percepción, Guías de Remisión Ilimitados***.</span></div>
                             <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Conectado con la SUNAT</span></div>
                             <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Disponibilidad de nuestro sistema 24/7/365</span></div>
                             <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Máximo nivel de seguridad</span></div>
@@ -288,9 +286,10 @@
                             <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Reportes en Excel</span></div>
                             <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Capacitación </span></div>
                             <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Actualizaciones constantes de acuerdo a los cambios en las normas de la SUNAT</span></div>
+                            <div class="list-group-item"><span class="title"><span class="tick-yes">✔</span> Certificado digital incluido.</span></div>
                     </ul>
 
-                    <p class="text-center"><small>(*) Precios incluyen IGV<br>(**) Versión Offline tiene un costo adicional</small></p>
+                    <p class="text-center"><small>(*) Precios incluyen IGV<br>(**) Versión Offline tiene un costo adicional<br>(***) Los comprobantes de retención, percepción y guía de Remisión, tienen un costo adicional</small></p>
                     <p class="text-center"><small> </small></p>
 
                     <div class="card-body">
