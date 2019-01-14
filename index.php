@@ -261,8 +261,9 @@
                     <div class="card-head">
                         <small class="text-primary">PLAN OPENFACT</small>
                         <span class="price"  ><span style="text-decoration:line-through;color:red">S/ 89.90</span><sub >Antes</sub></span>
-                        <span class="price"><span style="font-weight:bold;">S/ 49.90*</span><sub>/mes Ahora</sub></span>
-                        <span class="price"><span style="font-weight:bold;font-size:30px;">S/ 562.00*</span><sub>/anual</sub></span>
+                        <span class="price"><span style="font-weight:bold;">S/ 59.90*</span><sub>/mes Ahora</sub></span>
+                        <span class="price"><span style="font-weight:bold;font-size:30px;">S/ 679.90*</span><sub>/anual</sub></span>
+                        <span class="price"><span style="font-weight:normal;font-size:15px;color: gray;font-style: italic;">(Válido hasta diciembre del 2018.)</span><sub></sub></span>
                     </div>
 
                     <p style="" class="text-center">Con la versión <b>ONLINE</b> emite tus comprobantes desde la web</p>
@@ -291,6 +292,11 @@
 
                     <p class="text-center"><small>(*) Precios incluyen IGV<br>(**) Versión Offline tiene un costo adicional<br>(***) Los comprobantes de retención, percepción y guía de Remisión, tienen un costo adicional</small></p>
                     <p class="text-center"><small> </small></p>
+
+                    <div class="card-head">
+                        <span class="price" style="font-weight: bold;font-size: 22px;padding: 1.5em;">Software de Gestión: Preventa, Ventas, Compras, Kardex, Caja, Productos, Clientes, Guías de Remisión.</span>
+                        <span class="price"><span style="font-weight:bold;font-size:30px;">S/ 699.90*</span><sub>/anual</sub></span>
+                    </div>
 
                     <div class="card-body">
                         <a href="#" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#call" data-whatever="PLAN OPENFACT">Te Llamamos</a>
